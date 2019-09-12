@@ -10,7 +10,6 @@ namespace StaticConstructorUsages
         /// Static is a keyword / Singleton is a design pattern
         /// Static classes can contain only static members / Singleton is object creational pattern with only one instance
         /// Singleton supports object displosal
-        /// 
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
